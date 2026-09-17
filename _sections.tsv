@@ -1,0 +1,63 @@
+8	32	2	2	**_INTRODUCTION_**
+33	68	2	3	**_CONTENTS_**
+69	130	3	5	**_COMPONENTS_**
+131	165	5	5	**_CORE CONCEPTS_**
+166	207	5	6	**_AIM OF THE GAME_**
+208	216	6	6	**_GAME AREAS_**
+217	227	6	6	**_ENVIRONMENT_**
+228	263	6	7	**_Line of sight_**
+264	293	7	7	**_Main floor_**
+294	352	7	8	**_Room_**
+353	465	8	8	**_Partitions_**
+466	508	8	9	**_Upper floor areas_**
+509	527	9	9	**_OPERATORS_**
+528	634	9	11	**_Operator status_**
+635	707	11	11	**_Operator profile_**
+708	749	11	12	**_SETUP SEQUENCE_**
+750	804	12	12	**_Squad selection_**
+805	828	12	13	**_Game speed setting_**
+829	902	13	14	**_Deployment_**
+903	1019	14	15	**_GAMEPLAY SEQUENCE_**
+1020	1062	15	16	**_ACTIVATING AN OPERATOR_**
+1063	1076	16	16	**_Operator actions_**
+1077	1078	16	16	**_OPERATOR ACTIONS_**
+1079	1137	16	17	**_Move (movement action)_**
+1138	1217	17	18	**_Leaning_**
+1218	1226	18	18	**_Run (movement action)_**
+1227	1295	18	19	**_Shoot action_**
+1296	1363	19	20	**_Protection_**
+1364	1392	20	20	**_Free action_**
+1393	1540	20	22	**_Overwatch action_**
+1541	1584	22	22	**_Riposte_**
+1585	1600	22	22	**_Use Tactical Gadget action_**
+1601	1623	22	23	**_Use a Special Gadget **ACTION** effect_**
+1624	1718	23	24	**_Destroy action_**
+1719	1750	24	24	**_OPERATOR REACTIONS_**
+1751	1827	24	25	**_CHALLENGES_**
+1828	1844	25	25	**_Checking lines of sight_**
+1845	1846	25	25	**_GADGETS_**
+1847	1888	25	26	**_General remarks on gadgets_**
+1889	1957	26	27	**_Icons used for gadgets_**
+1958	2072	27	28	**_Gadget effect keywords_**
+2073	2085	28	28	**_Icons used for gadgets_**
+2086	2144	28	28	**_Tactical gadgets for defenders_**
+2145	2209	28	29	**_Tactical gadgets for attackers_**
+2210	2215	29	29	**_OTHER IMPORTANT RULES_**
+2216	2221	29	29	**_Fairplay and pauses_**
+2222	2227	29	29	**_Effects and rules_**
+2228	2232	29	29	**_Limited components_**
+2233	2237	29	29	**_'Back in the box'_**
+2238	2246	29	29	**_Reroll_**
+2247	2261	29	29	**_'NO APP' VARIANT_**
+2262	2310	29	30	**_'No App' variant_**
+2311	2317	30	30	**_SPECIAL OPS MODULES_**
+2318	2346	30	30	**_Forward Planning module_**
+2347	2401	30	31	**_Advanced Tactics module_**
+2402	2436	31	31	**_Competitive Gaming module_**
+2437	2447	31	31	**_MULTIPLAYER MODE_**
+2448	2473	31	31	**_4 players: 2 v 2_**
+2474	2577	31	32	**_Rapid deployment_**
+2578	2588	32	33	**_3 players: 2 v 1_**
+2589	2596	33	33	**_ALTERNATIVE PROFILES_**
+2597	2670	33	34	**_HINTS AND TIPS_**
+2671	2759	34	34	**_INDEX_**
