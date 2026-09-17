@@ -24,10 +24,9 @@ rules questions and record house-rule interpretations.
     only when explicitly requested by the user.
 - **`rules-images/`** — page images of the original rulebook, kept for
   reference/verification.
-- **`source-material/`** — earlier drafts (`rules.md`: a full transcript of
-  the rulebook; `rules-reference.md`: a first restructuring pass). Both were
-  superseded by `rules/` and are **not used** by any skill — kept only for
-  development history.
+- **`source-material/`** — complete rules files (`rules.md`: a full
+  transcript of the rulebook; `rules-reference.md`: that transcript
+  restructured into a reference). The active and usable rules are found in `rules/` — these are kept as source material for development and reference purposes.
 
 ## How it works
 
