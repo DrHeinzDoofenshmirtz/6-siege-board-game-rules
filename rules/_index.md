@@ -11,7 +11,7 @@ front to back.
   the physical rulebook, so you can read further there if needed.
 - Every file ends with a **See also** line naming related topics worth
   checking next — follow those until your question is fully answered.
-- Icon meanings (⚠️, 🟧, ⬟, 🔩, 🔌, 👁️, 🎯, 💀, etc.) are documented in
+- Icon meanings (⚠️, ▲, ■, ⬟, 🔩, 🔌, 👁️, 🎯, 💀, ❗, etc.) are documented in
   `icon-legend.md` and are not repeated here.
 
 Use the **Quick Index** below to look up a specific rulebook term, the
@@ -46,7 +46,7 @@ it means the rulebook itself doesn't define that term on a specific page.
 | Challenges | 24 | challenges |
 | Charge cube | 12, 22 | squad-selection, use-tactical-gadget, use-special-gadget-action |
 | Deployment | 13 | deployment |
-| Destruction rating ⚠️🟧⬟ | 23, 26 | destroy, gadget-icons |
+| Destruction rating ▲■⬟ | 23, 26 | destroy, gadget-icons |
 | Door | 7, 23 | room, destroy |
 | Eliminated (Operator) | 10 | operator-status |
 | Exchange of fire | 21 | overwatch |
@@ -101,9 +101,9 @@ it means the rulebook itself doesn't define that term on a specific page.
 | Space | 7 | main-floor |
 | Stamina | 11 | operator-profile |
 | Straightening up | 18 | leaning |
-| Strength rating ⚠️🟧⬟ | 23, 26 | destroy, gadget-icons |
+| Strength rating ▲■⬟ | 23, 26 | destroy, gadget-icons |
 | Structural element | 8 | partitions |
-| Stunned 💀 | 9 | operator-status |
+| Stunned ❗ | 9 | operator-status |
 | Tactical gadgets | 28 | defender-gadgets, attacker-gadgets |
 | Tactical inventory | 12, 22 | squad-selection, use-tactical-gadget |
 | Timer | 12, 15, 18, 24 | game-speed-setting, activating-an-operator, shoot, challenges |
@@ -172,4 +172,4 @@ special-ops-modules, forward-planning-module, advanced-tactics-module, competiti
 multiplayer-mode, four-players-2v2, rapid-deployment-multiplayer, three-players-2v1
 
 *Other*
-alternative-profiles, hints-and-tips
+alternative-profiles, hints-and-tips, icon-legend

@@ -24,15 +24,15 @@ reworded, interpreted, or changed — every rule below is copied verbatim from
 - This is currently a single file, but every section below is written to be
   self-contained, so it can be split into its own file later (its anchor id
   is its planned filename) without rewriting anything.
-- Icon meanings (⚠️, 🟧, ⬟, 🔩, 🔌, 👁️, 🎯, 💀, etc.) are documented in
-  `icon-legend.md` and are not repeated here.
+- Icon meanings (⚠️, ▲, ■, ⬟, 🔩, 🔌, 👁️, 🎯, 💀, ❗, etc.) are documented in
+  `rules/icon-legend.md` and are not repeated here.
 
 This guide only restructures `rules.md`. It excludes purely bibliographic
 content that isn't a rule: the Introduction, the book's page-number Contents
 list, the Components list, and the book's own page-number Index (that Index
 is reused below as *data*, to build the Quick Index and cross-references,
 then not carried over as a section itself). Individual Operators' special
-gadget abilities are documented in `operators.md` (per `icon-legend.md`) and
+gadget abilities are documented in `operators.md` (per `rules/icon-legend.md`) and
 are out of scope here — this guide covers only the general rules in
 `rules.md`.
 

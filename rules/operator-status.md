@@ -18,10 +18,10 @@ Revealed Operators that receive a 🎯 marker.
 Line of sight to Located Operators **is no longer broken** by light walls,
 barricades, and spaces containing a Smoke or Gas overlay.
 
-*Status marker: Stunned*
+*Status marker: Stunned* ❗
 
 Operators may be Stunned by a flashbang grenade or a special gadget. Place a
-Stunned marker on their miniature base. Operators that perform a Shoot
+Stunned ❗ marker on their miniature base. Operators that perform a Shoot
 action while Stunned roll two 🟡 yellow Hit dice instead of the dice they
 would normally roll.
 

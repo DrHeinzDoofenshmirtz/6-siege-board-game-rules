@@ -15,8 +15,9 @@ rules questions and record interpretations and house-rules.
   rulebook doesn't clearly cover. Consulted only when `rules/` doesn't
   resolve a question, and always labeled as a user interpretation, never
   official rule text.
-- **`icon-legend.md`** — maps the rulebook's graphical icons (e.g. hit dice
-  colors, destruction ratings) to the emoji/text notation used in `rules/`.
+- **`rules/icon-legend.md`** — maps the rulebook's graphical icons (e.g. hit
+  dice colors, destruction ratings) to the emoji/text notation used in
+  `rules/`.
 - **`.github/skills/`** — the Copilot skills:
   - `answer-rules-question` — answers rules questions from `rules/`
     (falling back to `interpretations.md`), always with page citations.

@@ -21,12 +21,12 @@ meaning applies is always clear from context (e.g. "... strength rating" vs
 
 | Tier | Real icon | Notation used here |
 |------|-----------|---------------------|
-| 1 | Yellow warning-style triangle | ⚠️1 |
-| 2 | Orange square | 🟧2 |
+| 1 | Yellow warning-style triangle | ▲1 |
+| 2 | Orange square | ■2 |
 | 3 | Red pentagon | ⬟3 *(shape shown in black; real icon is red)* |
 
 Example usage: "Barricades can be destroyed by a gadget or an Operator with
-the 🟧2 or ⬟3 destruction rating."
+the ■2 or ⬟3 destruction rating."
 
 ## Gadget attribute icons (p. 26/27/28)
 
@@ -46,6 +46,7 @@ the 🟧2 or ⬟3 destruction rating."
 | Charge cube slot | Small cube/token icon | 🧊 |
 | Located marker | Red target/reticle icon | 🎯 |
 | Overwatch marker | Blue/orange directional arc icon | 🧭 |
+| Stunned marker | Plain red exclamation mark | ❗ |
 
 ## Dice colors (Hit dice)
 
@@ -81,6 +82,3 @@ rendered as styled text badges/headers in the original, not icons.
   Unicode emoji, this legend uses the closest reasonable glyph and documents
   the real appearance in the "Real icon" column so it can still be cross-referenced
   against the physical rulebook.
-- This legend will be extended if additional distinct icons are discovered
-  while transcribing the remaining pages (e.g. Stunned marker, Entryway
-  Overwatch token, etc.).

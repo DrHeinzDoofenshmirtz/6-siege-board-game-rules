@@ -12,7 +12,7 @@ longer treated as an entryway space until the Fortified Entryway token is
 removed from the game board by a gadget with the ⬟3 destruction rating
 (used from the main floor or an upper floor area).
 
-**Barbed Wire** 🔩⚠️1
+**Barbed Wire** 🔩▲1
 
 *Setup*
 
@@ -21,15 +21,15 @@ containing a Barbed Wire token must immediately end their activation. A
 Drone gadget cannot be deployed in or enter a space containing a Barbed
 Wire token.
 
-**Deployable Shield** 🔩🟧2
+**Deployable Shield** 🔩■2
 
 *Setup*
 
 Deployable Shields are ground-deployed gadgets that are treated as
 obstacles, but can be destroyed. They have the Bulletproof 🔩 attribute and
-a 🟧2 strength rating.
+a ■2 strength rating.
 
-**Camera** 🔌👁️⚠️1
+**Camera** 🔌👁️▲1
 
 *Setup*
 
@@ -38,7 +38,7 @@ miniature is placed. An opposing Operator that enters a space in a room
 containing a Camera, or ends an action in one, receives a Located 🎯 marker
 (even if they are not in the camera's line of sight).
 
-**Bulletproof Camera** 🔌👁️🔩⚠️1
+**Bulletproof Camera** 🔌👁️🔩▲1
 
 *Setup*
 
@@ -57,6 +57,6 @@ hits rolled on 🟠 to any Operators in spaces adjacent to the targeted space.
 
 *Throwable*
 
-Perform a Destroy 🟧2 action in the targeted space.
+Perform a Destroy ■2 action in the targeted space.
 
 See also: gadget-keywords, gadget-icons, destroy, partitions

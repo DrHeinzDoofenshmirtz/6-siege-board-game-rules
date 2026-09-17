@@ -2,7 +2,7 @@
 
 *p. 23–24*
 
-`DESTROY ⚠️` — An Operator performing the Destroy action applies the
+`DESTROY ▲` — An Operator performing the Destroy action applies the
 destruction rating shown on their Operator profile to all destructible
 elements (i.e., with a strength rating) in the targeted space.
 
@@ -35,22 +35,22 @@ orthogonally adjacent spaces.
 
 ✅ Spaces that affect the partition if targeted
 
-*Required destruction rating: ⚠️1 🟧2 ⬟3*
+*Required destruction rating: ▲1 ■2 ⬟3*
 
-Operator profiles show a destruction rating ⚠️/🟧/⬟, applicable when the
+Operator profiles show a destruction rating ▲/■/⬟, applicable when the
 Operator uses the Destroy action.
 
 Compare the destruction rating against the targeted element's strength
-rating. There are three possible strength ratings: ⚠️1, 🟧2, and ⬟3.
+rating. There are three possible strength ratings: ▲1, ■2, and ⬟3.
 
-The ⚠️1 destruction rating destroys gadgets and partitions with the ⚠️1
+The ▲1 destruction rating destroys gadgets and partitions with the ▲1
 strength rating.
 
-The 🟧2 destruction rating destroys gadgets and partitions with the ⚠️1 or
-🟧2 strength rating.
+The ■2 destruction rating destroys gadgets and partitions with the ▲1 or
+■2 strength rating.
 
 The ⬟3 destruction rating (gadget effect only) destroys gadgets and
-partitions with the ⚠️1, 🟧2, or ⬟3 strength rating.
+partitions with the ▲1, ■2, or ⬟3 strength rating.
 
 Elements with no strength rating, such as obstacles and heavy walls, are
 indestructible.
@@ -85,7 +85,7 @@ Example: Performing a Destroy action — From his current space, Sledge:
    central dot in the space into which the camera is pointing;
 2. can destroy the light wall (on the right), as he has a line of sight to
    the space containing the targeted partition, and has the necessary
-   destruction rating 🟧2 (shown on his profile);
+   destruction rating ■2 (shown on his profile);
 3. cannot destroy either of the signal disruptors, as he has no line of
    sight to the relevant spaces.
 

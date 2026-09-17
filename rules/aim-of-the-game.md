@@ -26,14 +26,14 @@ a room in the Consulate.
 
 Example: Attacker activation sequence (1 — Thermite, 2 — Ash, 3 — Sledge)
 
-1. Thermite destroys the barricade (⚠️1). He deploys a drone, which then
+1. Thermite destroys the barricade (▲1). He deploys a drone, which then
    moves. The drone scans the room around it: Bandit receives a 🎯 Located
    marker.
 2. Ash moves in front of the barricade. As Bandit has been located, Ash has
    a line of sight through the barricade. She shoots at Bandit, eliminating
    him. Ash resumes her movement, reaching the upper floor via an entryway
    space.
-3. Sledge destroys the barricade (⚠️1). He moves, then leans into an opening
+3. Sledge destroys the barricade (▲1). He moves, then leans into an opening
    in the room to overwatch the hallway facing him.
 
 See also: setup-sequence, core-concepts

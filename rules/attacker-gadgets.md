@@ -22,10 +22,10 @@ Tactical Drones are governed by the rules defined for the Drone keyword
 
 *Throwable*
 
-Perform a Destroy ⚠️1 action in the targeted space. Any Operator in that
+Perform a Destroy ▲1 action in the targeted space. Any Operator in that
 space takes the hits rolled on 🟡🟡.
 
-Perform a Destroy ⚠️1 action in spaces adjacent to the targeted space.
+Perform a Destroy ▲1 action in spaces adjacent to the targeted space.
 Operators in such spaces take the hits rolled on 🟡.
 
 **Flashbang Grenade**
@@ -45,7 +45,7 @@ of sight to Always Visible 👁️ gadgets or Located Operators.
 NOTE An Operator in a space containing a Smoke overlay will have all of
 their lines of sight blocked, unless their target has been Located.
 
-**Claymore** ⚠️1
+**Claymore** ▲1
 
 *Deployable*
 

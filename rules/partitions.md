@@ -29,11 +29,11 @@ but can be destroyed by gadgets with the ⬟3 destruction rating.
 
 **Light wall:** May provide light protection to Operators (see Protection,
 p. 19). This type of wall can be destroyed by a gadget or an Operator with
-the 🟧2 or ⬟3 destruction rating.
+the ■2 or ⬟3 destruction rating.
 
 **Holed wall:** Provides the same level of protection as a light wall, but
 does not block line of sight. This type of wall can be destroyed by a gadget
-or an Operator with the 🟧2 or ⬟3 destruction rating.
+or an Operator with the ■2 or ⬟3 destruction rating.
 
 NOTE Holed walls are only used in the game's expansions.
 
@@ -47,7 +47,7 @@ Barricaded Door standee / Barricaded Window standee
 
 A barricade is represented by a standee placed on a door or window.
 
-Barricades can be destroyed by a gadget or an Operator with the ⚠️1, 🟧2, or
+Barricades can be destroyed by a gadget or an Operator with the ▲1, ■2, or
 ⬟3 destruction rating.
 
 *Breach*

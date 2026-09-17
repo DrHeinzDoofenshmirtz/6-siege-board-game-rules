@@ -20,7 +20,7 @@ Example Operator profile card (Blitz, attacker):
   Blitz.
 - 🛡️ Shield icon present
 - RUN 2
-- DESTROY ⚠️
+- DESTROY ▲1
 - STAMINA 💀5
 
 *SPECIAL GADGETS*
@@ -46,7 +46,7 @@ protection against shots (see Protection, p. 19).
 **Stamina:** The number of wounds 💀 that must be inflicted to eliminate an
 Operator.
 
-**Destroy:** The destruction-rating icons (⚠️/🟧/⬟) shown on an Operator's
+**Destroy:** The destruction-rating icons (▲/■/⬟) shown on an Operator's
 profile indicate their destruction rating when they perform the Destroy
 action.
 

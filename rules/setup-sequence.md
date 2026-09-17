@@ -20,7 +20,7 @@ the table. Place the device on which you installed the app near the game
 board, together with the 2 LoS Rulers and 7 Hit dice.
 
 Form the general supply near the game board. Put all Breach standees, Wound
-tokens 💀, Located 🎯 and Stunned 🟡 markers in the supply, along with the
+tokens 💀, Located 🎯 and Stunned ❗ markers in the supply, along with the
 Drone marker and all the overlays. Place the Round Tracker marker on the
 first space (0) on the Round Tracker.
 
