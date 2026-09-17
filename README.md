@@ -2,7 +2,7 @@
 
 This repo is a structured, lookup-friendly rules reference for *6: Siege –
 The Board Game*, built for use with GitHub Copilot CLI skills that answer
-rules questions and record house-rule interpretations.
+rules questions and record interpretations and house-rules.
 
 ## Structure
 
