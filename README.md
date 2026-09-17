@@ -22,14 +22,12 @@ rules questions and record house-rule interpretations.
     (falling back to `interpretations.md`), always with page citations.
   - `create-interpretation` — records a new entry in `interpretations.md`,
     only when explicitly requested by the user.
-- **`Rules.PDF`** / **`rules-images/`** — the original rulebook, as text and
-  page images, kept for reference/verification.
+- **`rules-images/`** — page images of the original rulebook, kept for
+  reference/verification.
 - **`source-material/`** — earlier drafts (`rules.md`: a full transcript of
   the rulebook; `rules-reference.md`: a first restructuring pass). Both were
   superseded by `rules/` and are **not used** by any skill — kept only for
   development history.
-- **`_sections.tsv`** — a leftover build artifact from generating `rules/`
-  out of `Rules.PDF` (line/page ranges per section). Not read by anything.
 
 ## How it works
 
