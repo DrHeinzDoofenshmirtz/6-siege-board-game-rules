@@ -25,4 +25,8 @@ Each entry has three parts:
 **Explanation:** <the reasoning behind it>
 ```
 
-There are no entries yet.
+## Multiple Operators Overwatching the Same Target — Simultaneous Riposte
+
+**Ruling:** If two or more of your Operators are overwatching the same space (or entryway space) that an opposing Operator enters or ends an action in, each overwatching Operator may Riposte independently — you do not have to choose only one to Riposte.
+
+**Explanation:** The rulebook (p. 22) states Riposte is tied to each individual overwatching Operator's own Overwatch status, and explicitly says there is no limit to the number of times an Operator can Riposte during an opponent's activation phase — this limit is stated per-Operator, not shared across overwatchers. No rule text restricts Riposte to a single overwatcher when multiple Operators cover the same space, so each qualifying Operator triggers their own free Shoot action.
